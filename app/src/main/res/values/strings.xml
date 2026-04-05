@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">lGPD Fácil</string>
+    <string name="vis_o_geral_lgpd">Visão Geral LGPD</string>
+    <string name="sem_dados">Sem Dados</string>
+
+    <string name="pergunta_1">Sua empresa possui um mapeamento de todos os dados pessoais coletados?</string>
+    <string name="acao_1">Realizar o inventário/mapeamento de dados pessoais.</string>
+
+    <string name="pergunta_2">Existe uma Política de Privacidade clara e acessível no site da empresa?</string>
+    <string name="acao_2">Elaborar e publicar a Política de Privacidade.</string>
+
+    <string name="pergunta_3">A empresa obtém consentimento explícito dos clientes antes de coletar dados?</string>
+    <string name="acao_3">Revisar os formulários de coleta para incluir o opt-in.</string>
+
+    <string name="pergunta_4">Há um processo definido para responder a solicitações de titulares de dados?</string>
+    <string name="acao_4">Criar um canal e fluxo de atendimento aos titulares (ex: e-mail DPO).</string>
+
+    <string name="pergunta_5">Os funcionários que manipulam dados receberam treinamento sobre LGPD?</string>
+    <string name="acao_5">Ministrar treinamento básico sobre privacidade de dados para a equipe.</string>
+    <string name="maturidade">Mapeamento de Maturidade LGPD</string>
+    <string name="calcular_nota">Calcular Nota e Finalizar</string>
+    <string name="tarefa_1">Realizar o inventário/mapeamento de dados pessoais.</string>
+    <string name="tarefa_2">Elaborar e publicar a Política de Privacidade no site.</string>
+    <string name="tarefa_3">Revisar os formulários de coleta para incluir o opt-in.</string>
+    <string name="tarefa_4">Criar um canal de atendimento aos titulares (ex: e-mail DPO).</string>
+    <string name="tarefa_5">Ministrar treinamento básico sobre LGPD para a equipe.</string>
+    <string name="o_que_a_lgpd">O que é a LGPD?</string>
+    <string name="o_que_a_lgpd_resposta">A Lei Geral de Proteção de Dados (Lei nº 13.709/2018) estabelece regras sobre coleta, armazenamento, tratamento e compartilhamento de dados pessoais, impondo mais proteção e penalidades para o não cumprimento.</string>
+    <string name="o_que_s_o_dados_pessoais">O que são Dados Pessoais?</string>
+    <string name="o_que_s_o_dados_pessoais_resposta">Qualquer informação relacionada a uma pessoa natural identificada ou identificável. Exemplos: Nome, RG, CPF, e-mail, telefone, endereço, etc.</string>
+    <string name="o_papel_do_dpo">O Papel do DPO</string>
+    <string name="o_papel_do_dpo_resposta">O Encarregado de Proteção de Dados (DPO) é a pessoa indicada pelo controlador para atuar como canal de comunicação entre a empresa, os titulares dos dados e a Autoridade Nacional (ANPD).</string>
+    <string name="dica_de_ouro">Dica de Ouro</string>
+    <string name="dica_de_ouro_resposta">Colete apenas os dados estritamente necessários para a sua finalidade. Quanto menos dados você guardar, menor será o seu risco em caso de vazamento.</string>
+</resources>
